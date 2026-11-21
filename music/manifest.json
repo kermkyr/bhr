@@ -1,0 +1,112 @@
+{
+ "home": {
+  "rate": 22050,
+  "length": 1176000,
+  "offset": 1105
+ },
+ "homeLullaby": {
+  "rate": 22050,
+  "length": 1058400,
+  "offset": 1105
+ },
+ "homeBossa": {
+  "rate": 22050,
+  "length": 920348,
+  "offset": 1105
+ },
+ "homeJazz": {
+  "rate": 22050,
+  "length": 1008000,
+  "offset": 1105
+ },
+ "dance": {
+  "rate": 22050,
+  "length": 756000,
+  "offset": 1105
+ },
+ "prolog": {
+  "rate": 22050,
+  "length": 1245177,
+  "offset": 1105
+ },
+ "chA": {
+  "rate": 22050,
+  "length": 1085539,
+  "offset": 1105
+ },
+ "chB": {
+  "rate": 22050,
+  "length": 882000,
+  "offset": 1105
+ },
+ "chC": {
+  "rate": 22050,
+  "length": 1008000,
+  "offset": 1105
+ },
+ "chD": {
+  "rate": 22050,
+  "length": 846720,
+  "offset": 1105
+ },
+ "chE": {
+  "rate": 22050,
+  "length": 1209600,
+  "offset": 1105
+ },
+ "end1": {
+  "rate": 22050,
+  "length": 1114106,
+  "offset": 1105
+ },
+ "end2": {
+  "rate": 22050,
+  "length": 1282910,
+  "offset": 1105
+ },
+ "end3": {
+  "rate": 22050,
+  "length": 1209600,
+  "offset": 1105
+ },
+ "end4": {
+  "rate": 22050,
+  "length": 1323000,
+  "offset": 1105
+ },
+ "end5": {
+  "rate": 22050,
+  "length": 962182,
+  "offset": 1105
+ },
+ "end6": {
+  "rate": 22050,
+  "length": 661500,
+  "offset": 1105
+ },
+ "end7": {
+  "rate": 22050,
+  "length": 920348,
+  "offset": 1105
+ },
+ "end8": {
+  "rate": 22050,
+  "length": 1058400,
+  "offset": 1105
+ },
+ "end9": {
+  "rate": 22050,
+  "length": 882000,
+  "offset": 1105
+ },
+ "end10": {
+  "rate": 22050,
+  "length": 1411200,
+  "offset": 1105
+ },
+ "finale": {
+  "rate": 22050,
+  "length": 1365678,
+  "offset": 1105
+ }
+}
